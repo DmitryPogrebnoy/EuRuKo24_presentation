@@ -10,6 +10,7 @@ end
 trace.enable(target: iseq)
 
 say_hello
-
+# => Calling method 'say_hello'
+# => Hello EuRuKo2024!
 
 
