@@ -5,39 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0524edd2-9905-43de-be81-0f13d35df5f0" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/diagrams/1_general_arch_rubymine_debugger/general_arc_rubymine_debugger.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/1_general_arch_rubymine_debugger/general_arc_rubymine_debugger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/2_general_arch_rubymine_debugger_details/general_arc_rubymine_debugger_details.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/2_general_arch_rubymine_debugger_details/general_arc_rubymine_debugger_details.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/connection_process_rubymine_debugger.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/connection_process_rubymine_debugger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/6_messaging_protocol/code_sample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/6_messaging_protocol/sample_messages.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/7_performance/fibonacci.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/8_logging_breakpoint/1_logging_breakpoint_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/8_logging_breakpoint/2_logging_breakpoint_dialog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/8_logging_breakpoint/3_logging_breakpoint_output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation_samples/6_messaging_protocol/breackpoint_messages.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation_samples/6_messaging_protocol/code_sample.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation_samples/7_performance/fibonacci.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation_samples/8_logging_breakpoint/logging_breakpoint_example.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/5_tracepoint_improvements/1_tracepoint_improvements.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/5_tracepoint_improvements/1_tracepoint_improvements.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/byebug/1_how_works_byebug.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/4_byebug/1_how_works_byebug.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/example_with_bug/1_example_define.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/1_example_with_bug/1_example_define.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/example_with_bug/2_example_define_fixed.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/1_example_with_bug/2_example_define_fixed.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/example_with_bug/3_example_define_prints.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/1_example_with_bug/3_example_define_prints.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/example_with_bug/4_example_define_puts_debuggerer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/1_example_with_bug/4_example_define_puts_debuggerer.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/example_with_bug/5_example_define_irb.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/1_example_with_bug/5_example_define_irb.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/iseq/1_iseq_example.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/3_iseq/1_iseq_example.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/iseq/1_iseq_example_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/3_iseq/1_iseq_example_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/tracepoint/1_tracepoint_example.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/2_tracepoint/1_tracepoint_example.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/tracepoint/2_tracepoint_simple_debugger.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/2_tracepoint/2_tracepoint_simple_debugger.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation_samples/tracepoint_imporvements/1_tracepoint_improvements.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/5_tracepoint_imporvements/1_tracepoint_improvements.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/1_connection_process_rubymine_debugger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/2_connection_process_rubymine_debugger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/3_connection_process_rubymine_debugger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/4_connection_process_rubymine_debugger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/5_connection_process_rubymine_debugger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/10_click_to_debug/click_to_debug_rails_app.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/11_attach_to_ruby_process/attach_to_ruby_process.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/9_custom_type_renderer/1_original_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/9_custom_type_renderer/2_debug_view_without_changes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/9_custom_type_renderer/3_custom_type_renderer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/9_custom_type_renderer/4_debug_view_with_type_renderer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presentation_samples/11_attach_to_ruby_process/sample_script.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presentation_samples/9_custom_type_renderer/custom_type_renderer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EuRuKo24_presentation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EuRuKo24_presentation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/connection_process_rubymine_debugger.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/connection_process_rubymine_debugger.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger/connection_process_rubymine_debugger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation_samples/2_tracepoint/1_tracepoint_example.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation_samples/2_tracepoint/1_tracepoint_example.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/app/controllers/static_pages_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/rails_app/sample_rails_app_7th_ed/app/controllers/static_pages_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +43,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="1" />
+        <option name="rewordedMessage" value="Preparation steps" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="6c18e843927f13b212d5b13a636e8c70e883c1ff" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -64,40 +65,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Ruby.1_tracepoint_example.executor": "Run",
     "Ruby.1_tracepoint_improvements.executor": "Run",
     "Ruby.code_sample.executor": "Debug",
+    "Ruby.custom_type_renderer.executor": "Debug",
     "Ruby.logging_breakpoint_example.executor": "Debug",
     "Ruby.sample.executor": "Debug",
+    "Ruby.sample_script.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dmitry.pogrebnoy/Desktop/EuRuKo24_presentation/pictures/6_messaging_protocol",
+    "last_opened_file_path": "/Users/dmitry.pogrebnoy/Desktop/EuRuKo24_presentation/pictures/9_custom_type_renderer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
     "settings.editor.selected.configurable": "project.propDebugger",
+    "settings.editor.splitter.proportion": "0.26666668",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pictures/9_custom_type_renderer" />
+      <recent name="$PROJECT_DIR$/src/presentation_samples" />
       <recent name="$PROJECT_DIR$/pictures/6_messaging_protocol" />
       <recent name="$PROJECT_DIR$/diagrams/connection_process_rubymine_debugger" />
       <recent name="$PROJECT_DIR$/src/presentation_samples/performance" />
-      <recent name="$PROJECT_DIR$/diagrams/general_arch_rubymine_debugger_details" />
-      <recent name="$PROJECT_DIR$/diagrams/general_arch_rubymine_debugger" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diagrams/3_connection_process_rubymine_debugger" />
+      <recent name="$PROJECT_DIR$/pictures/9_custom_type_renderer" />
+      <recent name="$PROJECT_DIR$/pictures/11_attach_to_ruby_process" />
+      <recent name="$PROJECT_DIR$/pictures/10_click_to_debug" />
       <recent name="$PROJECT_DIR$/pictures/8_logging_breakpoint" />
-      <recent name="$PROJECT_DIR$/pictures/7_performance" />
-      <recent name="$PROJECT_DIR$/pictures/6_messaging_protocol" />
-      <recent name="$PROJECT_DIR$/pictures/6_protocol_connection" />
-      <recent name="$PROJECT_DIR$/pictures/5_tracepoint_improvements" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.1_logging_breakpoint_example">
+  <component name="RunManager" selected="Ruby.1_tracepoint_example">
     <configuration name="1_logging_breakpoint_example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="EuRuKo24_presentation" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -116,7 +122,7 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_tracepoint_improvements" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="1_tracepoint_example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="EuRuKo24_presentation" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -130,7 +136,7 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/presentation_samples/5_tracepoint_imporvements/1_tracepoint_improvements.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/presentation_samples/2_tracepoint/1_tracepoint_example.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -152,11 +158,49 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="custom_type_renderer" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="EuRuKo24_presentation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/presentation_samples/9_custom_type_renderer/custom_type_renderer.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_script" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="EuRuKo24_presentation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/presentation_samples/11_attach_to_ruby_process/sample_script.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.1_tracepoint_example" />
+        <item itemvalue="Ruby.custom_type_renderer" />
+        <item itemvalue="Ruby.sample_script" />
         <item itemvalue="Ruby.1_logging_breakpoint_example" />
         <item itemvalue="Ruby.code_sample" />
-        <item itemvalue="Ruby.1_tracepoint_improvements" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +222,8 @@
       <updated>1720436338560</updated>
       <workItem from="1720436339606" duration="2439000" />
       <workItem from="1720447882620" duration="6349000" />
-      <workItem from="1720613832315" duration="6251000" />
+      <workItem from="1720613832315" duration="24432000" />
+      <workItem from="1721224015223" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -188,15 +233,35 @@
       <option name="project" value="LOCAL" />
       <updated>1720448583638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1720625532330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720625532330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Preparation steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preparation steps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,19 +284,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="NONE" type="ruby-line">
           <url>file://$PROJECT_DIR$/src/presentation_samples/8_logging_breakpoint/logging_breakpoint_example.rb</url>
-          <line>1</line>
           <log-expression expression="puts &quot;Debug print 1: &quot; + (defined? thing.to_s).to_s&#10;puts &quot;Debug print 2: &quot; + (defined? thing.inspect).to_s&#10;puts &quot;Debug print 3: &quot; + (defined? thing.to_s || defined? thing.inspect).to_s" language="ruby" mode="CODE_FRAGMENT" />
           <properties myBlockOrdinal="-1">
             <option name="block-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/src/presentation_samples/9_custom_type_renderer/custom_type_renderer.rb</url>
+          <line>9</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/src/presentation_samples/11_attach_to_ruby_process/sample_script.rb</url>
+          <line>7</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EuRuKo24_presentation@custom_type_renderer.rcov" NAME="custom_type_renderer Coverage Results" MODIFIED="1720794174915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
     <SUITE FILE_PATH="coverage/EuRuKo24_presentation@1_tracepoint_improvements.rcov" NAME="1_tracepoint_improvements Coverage Results" MODIFIED="1720448445630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
+    <SUITE FILE_PATH="coverage/EuRuKo24_presentation@.rcov" NAME=" Coverage Results" MODIFIED="1720793460566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="EuRuKo24_presentation" />
     <SUITE FILE_PATH="coverage/EuRuKo24_presentation@sample.rcov" NAME="code_sample Coverage Results" MODIFIED="1720619624003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
+    <SUITE FILE_PATH="coverage/EuRuKo24_presentation@sample_script.rcov" NAME="sample_script Coverage Results" MODIFIED="1720793440282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
+    <SUITE FILE_PATH="coverage/EuRuKo24_presentation@1_tracepoint_example.rcov" NAME="1_tracepoint_example Coverage Results" MODIFIED="1720963579502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
     <SUITE FILE_PATH="coverage/EuRuKo24_presentation@logging_breakpoint_example.rcov" NAME="logging_breakpoint_example Coverage Results" MODIFIED="1720622853871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="EuRuKo24_presentation" />
   </component>
 </project>
