@@ -7,7 +7,7 @@ def process(thing)
   end
 end
 
-process(5) # Element is Printable
-process(BasicObject.new) # Element is Printable
+process(5) # => Element is Printable
+process(BasicObject.new) # => Element is Printable
 
 
