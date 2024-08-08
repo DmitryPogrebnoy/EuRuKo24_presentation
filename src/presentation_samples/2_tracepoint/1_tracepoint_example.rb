@@ -7,6 +7,10 @@ TracePoint.new(:call) do |tp|
 end.enable
 
 say_hello
+# => Calling method 'say_hello'
+# => Hello EuRuKo2024!
+
+
 
 
 

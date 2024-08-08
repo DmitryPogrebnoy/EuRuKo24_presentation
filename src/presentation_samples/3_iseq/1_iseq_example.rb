@@ -2,7 +2,9 @@ def say_hello
   puts "Hello EuRuKo2024!"
 end
 
-iseq = RubyVM::InstructionSequence.of(method(:say_hello))
+method_object = method(:say_hello)
+iseq = RubyVM::InstructionSequence.of(method_object)
+
 puts iseq.disasm
 
 

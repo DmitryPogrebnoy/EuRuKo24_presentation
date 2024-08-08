@@ -28,6 +28,7 @@
     <orderEntry type="library" scope="PROVIDED" name="irb (v1.14.0, mise: 3.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v1.1.0, mise: 3.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.24.1, mise: 3.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mutex_m (v0.2.0, mise: 3.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pry (v0.14.2, mise: 3.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="psych (v5.1.2, mise: 3.3.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puts_debuggerer (v1.0.0, mise: 3.3.3) [gem]" level="application" />
